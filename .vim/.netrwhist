@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='C:/Users/hzhou5'
+let g:netrw_dirhist_2='/icc'
+let g:netrw_dirhist_3='/home/wall/vpm_8.0/VpmXpress'
+let g:netrw_dirhist_4='/home/wall/vpm_8.0/lib/storagemngr'
+let g:netrw_dirhist_5='/home/wall/vpm_8.0/lib/storagemngr/src'
